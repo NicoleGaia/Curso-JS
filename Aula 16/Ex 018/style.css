@@ -1,0 +1,25 @@
+body{
+    background-color: blueviolet;
+    font: normal 20pt Arial;
+}
+header{
+    text-align: center;
+}
+footer{
+    text-align: center;
+    font: normal 13pt Arial;
+}
+section{
+    font: normal 18pt Arial;
+    text-align: justify;
+    background-color: rgba(218, 210, 224, 0.747);
+    background-position-y: center;
+    border-radius: 15px;
+    padding: 15px;
+    width: 500px;
+    box-shadow: 3px 3px 10px black;
+   
+}
+select#selList{
+    width: 150px;
+}
